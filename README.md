@@ -18,7 +18,7 @@ The homework was divided in 3 sections:
 
 Inside `homework2` there are two files:
 
-- `main.ipynb`:  a Jupyter notebook that contains all the answers to your research and theoretical questions.
+- `main.ipynb`:  a Jupyter notebook that contains all the answers to your research and theoretical questions. Clicking [here](https://nbviewer.org/github/JRhin/algorithmic-methods-of-data-mining-homeworks/blob/main/homework2/main.ipynb) you can find the nbviewer version of the notebook.
 - `CommandLine.sh`: a bash shell script file contains the prepared script to answer to the command line question.
 
 ## Homework 3
@@ -41,7 +41,7 @@ This git repository contains our solution for the homework 3.
 
 There are three files:
 
-- `main.ipynb`:  a Jupyter notebook that contains all the answers to your research and theoretical questions. Clicking [here](https://nbviewer.org/github/MePando/ADM-HW3/blob/main/main.ipynb) you can find the nbviewer version of the notebook.
+- `main.ipynb`:  a Jupyter notebook that contains all the answers to your research and theoretical questions. Clicking [here](https://nbviewer.org/github/JRhin/algorithmic-methods-of-data-mining-homeworks/blob/main/homework3/main.ipynb) you can find the nbviewer version of the notebook.
 
 - `CommandLine.sh`: a bash shell script file contains the prepared script to answer to the command line question.
 
