@@ -25,7 +25,7 @@ Inside `homework2` there are two files:
 
 The homework was divided in 3 sections:
 
-1. The first one in which we had to scrape a site, collect data about locations then we had to build two types of search engines to retrieve documents (the locations) that better match with a given query.
+1. The first one in which we had to scrape a site ([Atlas Obscura](https://www.atlasobscura.com/)), collect data about locations then we had to build two types of search engines to retrieve documents (the locations) that better match with a given query.
 2. A Command Line Question about the data collected from the site.
 3. Some Algorithmic Questions.
 
