@@ -79,6 +79,6 @@ This git repository contains our solution for the homework 4.
 
 There are two files:
 
-- `main.ipynb`:  a Jupyter notebook that contains all the answers to your research and theoretical questions. Clicking [here](https://nbviewer.org/github/JRhin/algorithmic-methods-of-data-mining-homeworks/blob/main/homework3/main.ipynb) you can find the nbviewer version of the notebook.
+- `main.ipynb`:  a Jupyter notebook that contains all the answers to your research and theoretical questions. Clicking [here](https://nbviewer.org/github/JRhin/algorithmic-methods-of-data-mining-homeworks/blob/main/homework4/main.ipynb) you can find the nbviewer version of the notebook.
 
 - `CommandLine.sh`: a bash shell script file contains the prepared script to answer to the command line question.
