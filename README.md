@@ -55,3 +55,30 @@ There are three files:
   An example usage of these classes can be found in the `main.ipynb` notebook.
 
   **Note**: This python file contains only the modular classes, so there is no scraping or preprocessing section, this is because these parts depend on the data structure, while the classes contained don't: they require the data to be preprocessed (As usually an example can be found in the `main.ipynb` notebook).
+
+## Homework 4
+
+The homework was divided in 4 sections:
+
+1. We had to perform two works on a particular [kaggle dataset](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation).
+   1. At first we had to retrieve similar users of a query user, using a Locality Sensitive Hashing approach.
+   2. Then in the second work we had to perform user clustering.
+
+2. A Command Line Question about the data collected from the site.
+3. An Algorithmic Question.
+
+### Team
+
+- Eric Rubia Aguilera [[Github](https://github.com/ericrubia99)].
+- Vahid Ghanbarizadeh [[Github](https://github.com/Vah1d)].
+- Mario Edoardo Pandolfo [[Github](https://github.com/JRhin)] [[Linkedin](https://www.linkedin.com/in/jrhin/)].
+
+### Repository
+
+This git repository contains our solution for the homework 4.
+
+There are two files:
+
+- `main.ipynb`:  a Jupyter notebook that contains all the answers to your research and theoretical questions. Clicking [here](https://nbviewer.org/github/JRhin/algorithmic-methods-of-data-mining-homeworks/blob/main/homework3/main.ipynb) you can find the nbviewer version of the notebook.
+
+- `CommandLine.sh`: a bash shell script file contains the prepared script to answer to the command line question.
